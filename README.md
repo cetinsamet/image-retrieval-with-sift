@@ -1,4 +1,4 @@
-# image-retrieval
+# image-retrieval-with-sift
 Simple image-retrieval pipeline with OpenCV  
 Image retrieval pipeline is formed extracting SIFT features from images and creating visual word clusters  
   
